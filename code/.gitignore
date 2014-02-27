@@ -1,0 +1,5 @@
+default/
+compile/
+*.lst
+*.o
+*.hex

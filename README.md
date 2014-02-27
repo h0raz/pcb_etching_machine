@@ -14,6 +14,8 @@ The second one is used for heating(12V) and servo(5V) because I had some issues 
 
 This machine is in use from time to time but I wouldn't say it's finished
 
+The sizes for the plexi can be found in the construction folder, I created the file with FreeCAD
+
 > **Features:**
 > 
 > - Timebased etching/exposing a pcb
